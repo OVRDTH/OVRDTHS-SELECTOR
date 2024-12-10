@@ -1,0 +1,45 @@
+Mod License Agreement
+
+1. Introduction
+This Mod License Agreement ("Agreement") is a legal agreement between you ("User") and [Your Name or Company] ("Licensor") concerning the use of the mod [Mod Name] ("Mod").
+
+By downloading, installing, or using the Mod, you agree to be bound by the terms of this Agreement.
+
+2. Grant of License
+The Licensor grants you a personal, non-exclusive, non-transferable, and revocable license to use the Mod for your own non-commercial purposes, subject to the terms and conditions of this Agreement.
+
+3. Restrictions
+No Distribution Without Permission: You may not distribute, share, sublicense, transmit, or otherwise make the Mod or any of its components available to any third party without prior written permission from the Licensor.
+
+No Alteration Without Permission: You may not modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Mod without prior written permission from the Licensor.
+
+No Reupload Without Permission: You may not reupload the Mod or any portion of it to any website, platform, server, or other medium without prior written permission from the Licensor.
+
+No Commercial Use: You may not use the Mod for any commercial purposes, including but not limited to selling, renting, leasing, or licensing the Mod to others.
+
+No Unauthorized Use: Any use of the Mod not expressly permitted by this Agreement is strictly prohibited.
+
+4. Ownership
+All title, ownership rights, and intellectual property rights in and to the Mod are owned by the Licensor. This Agreement does not grant you any ownership interest in the Mod.
+
+5. Termination
+This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice if you fail to comply with any term(s) of this Agreement. Upon termination, you must destroy all copies of the Mod in your possession.
+
+6. Disclaimer of Warranties
+The Mod is provided "AS IS" without warranty of any kind, either express or implied. The Licensor does not warrant that the Mod will meet your requirements or that its operation will be uninterrupted or error-free.
+
+7. Limitation of Liability
+In no event shall the Licensor be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) arising out of your use of or inability to use the Mod, even if the Licensor has been advised of the possibility of such damages.
+
+8. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law provisions.
+
+9. Entire Agreement
+This Agreement constitutes the entire agreement between you and the Licensor concerning the Mod and supersedes all prior or contemporaneous communications and proposals.
+
+10. Contact Information
+For permissions, requests, or inquiries regarding this Agreement, please contact:
+
+OVRDTH
+
+By using the Mod, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms and conditions
